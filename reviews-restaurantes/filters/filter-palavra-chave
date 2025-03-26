@@ -1,0 +1,8 @@
+
+not contains(comentario, 'demorado')
+
+{
+  "@odata.context": "https://elefante1.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "@odata.count": 0,
+  "value": []
+}

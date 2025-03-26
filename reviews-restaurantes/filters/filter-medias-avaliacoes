@@ -1,0 +1,210 @@
+rating lt 3 or contains(comentario, 'ruim')
+
+{
+  "@odata.context": "https://elefante1.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "@odata.count": 7,
+  "value": [
+    {
+      "@search.score": 2.6459823,
+      "content": "Nome: Camila Martins\nAvaliação: 3 estrelas\nComentário: Maiores fuga et aspernatur reiciendis officia eligendi. Officiis nulla commodi expedita deleniti. Quisquam neque adipisci ipsam.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld181LnR4dA2",
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "Camila Martins Avaliação",
+        "3 estrelas Comentário",
+        "Maior"
+      ],
+      "language": "la",
+      "translated_text": "Nome: Camila Martins\nAvaliação: 3 estrelas\nComentário: Maiores fuga et aspernatur reiciendis officia eligendi. Officiis nulla commodi expedita deleniti. Quisquam neque adipisci ipsam.\n\n",
+      "masked_text": "",
+      "pii_entities": []
+    },
+    {
+      "@search.score": 1.3035057,
+      "content": "Nome: Nathan Cavalcanti\nAvaliação: 3 estrelas\nComentário: Voluptates totam qui id sunt aliquam.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld18xMC50eHQ1",
+      "people": [
+        "Nathan Cavalcanti"
+      ],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "Nathan Cavalcanti",
+        "Avaliação",
+        "Comentário",
+        "Nome",
+        "3 estrelas",
+        "Voluptates",
+        "aliquam"
+      ],
+      "language": "pt",
+      "translated_text": "Name: Nathan Cavalcanti\nRating: 3 stars\nCommentary: Voluptates totam qui id sunt aliquam.\n\n",
+      "masked_text": "Nome: *****************\nAvaliação: 3 estrelas\nComentário: Voluptates totam qui id sunt aliquam.\n\n",
+      "pii_entities": [
+        {
+          "text": "Nathan Cavalcanti",
+          "type": "Person",
+          "subtype": null,
+          "offset": 6,
+          "length": 17,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "@search.score": 0.81553197,
+      "content": "Nome: João Guilherme Porto\nAvaliação: 3 estrelas\nComentário: Provident eius tempora dolores. Consequatur totam laudantium debitis in minima sunt. Voluptatibus facilis ab officia quibusdam.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld185LnR4dA2",
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "João Guilherme Porto Avaliação",
+        "3 estrelas Comentário"
+      ],
+      "language": "la",
+      "translated_text": "Nome: João Guilherme Porto\nAvaliação: 3 estrelas\nComentário: Provident eius tempora dolores. Consequatur totam laudantium debitis in minima sunt. Voluptatibus facilis ab officia quibusdam.\n\n",
+      "masked_text": "",
+      "pii_entities": []
+    },
+    {
+      "@search.score": 0.71023846,
+      "content": "Nome: Pietra Nascimento\nAvaliação: 5 estrelas\nComentário: Expedita ipsam corporis nemo consectetur.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld18yLnR4dA2",
+      "people": [
+        "Pietra Nascimento"
+      ],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "Expedita ipsam corporis",
+        "Pietra Nascimento",
+        "Avaliação",
+        "Comentário",
+        "Nome",
+        "5 estrelas",
+        "consectetur"
+      ],
+      "language": "pt",
+      "translated_text": "Name: Pietra Nascimento\nRating: 5 stars\nComment: Expedita ipsam corporis nemo consectetur.\n\n",
+      "masked_text": "Nome: *****************\nAvaliação: 5 estrelas\nComentário: Expedita ipsam corporis nemo consectetur.\n\n",
+      "pii_entities": [
+        {
+          "text": "Pietra Nascimento",
+          "type": "Person",
+          "subtype": null,
+          "offset": 6,
+          "length": 17,
+          "score": 0.99
+        }
+      ]
+    },
+    {
+      "@search.score": 0.47782254,
+      "content": "Nome: Agatha Fogaça\nAvaliação: 2 estrelas\nComentário: Cumque doloremque nisi neque commodi inventore.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld18zLnR4dA2",
+      "people": [
+        "Agatha Fogaça"
+      ],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "Agatha Fogaça",
+        "Avaliação",
+        "Comentário",
+        "Cumque doloremque",
+        "commodi inventore",
+        "Nome",
+        "2 estrelas"
+      ],
+      "language": "pt",
+      "translated_text": "Name: Agatha Fogaça\nRating: 2 stars\nComment: Cumque doloremque nisi neque commodi inventore.\n\n",
+      "masked_text": "Nome: *************\nAvaliação: 2 estrelas\nComentário: Cumque doloremque nisi neque commodi *********.\n\n",
+      "pii_entities": [
+        {
+          "text": "Agatha Fogaça",
+          "type": "Person",
+          "subtype": null,
+          "offset": 6,
+          "length": 13,
+          "score": 1
+        },
+        {
+          "text": "inventore",
+          "type": "PersonType",
+          "subtype": null,
+          "offset": 91,
+          "length": 9,
+          "score": 0.61
+        }
+      ]
+    },
+    {
+      "@search.score": 0.47782254,
+      "content": "Nome: João Felipe Farias\nAvaliação: 5 estrelas\nComentário: Dolorem ex laudantium tempora harum facere.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld180LnR4dA2",
+      "people": [
+        "João Felipe Farias"
+      ],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "laudantium tempora harum facere",
+        "João Felipe Farias",
+        "Avaliação",
+        "Comentário",
+        "Nome",
+        "5 estrelas",
+        "Dolorem"
+      ],
+      "language": "pt",
+      "translated_text": "Name: João Felipe Farias\nRating: 5 stars\nComment: Dolorem ex laudantium tempora harum facere.\n\n",
+      "masked_text": "Nome: ******************\nAvaliação: 5 estrelas\nComentário: Dolorem ex laudantium tempora harum facere.\n\n",
+      "pii_entities": [
+        {
+          "text": "João Felipe Farias",
+          "type": "Person",
+          "subtype": null,
+          "offset": 6,
+          "length": 18,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "@search.score": 0.26301134,
+      "content": "Nome: Maria Julia Rezende\nAvaliação: 4 estrelas\nComentário: Ipsam eligendi accusamus explicabo. Dicta error aperiam temporibus esse.\n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9hOTk5NjY5MTgyNy5ibG9iLmNvcmUud2luZG93cy5uZXQvcmVzdGF1cmFudHNyZXZpc3dzL3Jldmlld18xLnR4dA2",
+      "people": [
+        "Maria Julia Rezende"
+      ],
+      "organizations": [],
+      "locations": [],
+      "keyphrases": [
+        "Maria Julia Rezende",
+        "Avaliação",
+        "Comentário",
+        "Ipsam eligendi",
+        "Dicta error",
+        "Nome",
+        "4 estrelas",
+        "temporibus"
+      ],
+      "language": "pt",
+      "translated_text": "Name: Maria Julia Rezende\nRating: 4 stars\nCommentary: Ipsam eligendi accusamus explicabo. Dicta error aperiam temporibus esse.\n\n",
+      "masked_text": "Nome: *******************\nAvaliação: 4 estrelas\nComentário: Ipsam eligendi accusamus explicabo. Dicta error aperiam temporibus esse.\n\n",
+      "pii_entities": [
+        {
+          "text": "Maria Julia Rezende",
+          "type": "Person",
+          "subtype": null,
+          "offset": 6,
+          "length": 19,
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
