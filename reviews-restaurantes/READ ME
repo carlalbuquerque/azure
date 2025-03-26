@@ -1,0 +1,42 @@
+# Análise de Reviews com Azure AI Search
+
+## 📄 Descrição do Projeto
+
+Este projeto utiliza o **Azure AI Search** para processar e analisar reviews fictícios de clientes sobre restaurantes. O objetivo é criar um sistema de pesquisa e classificação de feedbacks, permitindo extrair insights valiosos a partir das opiniões.
+
+## 🔧 Tecnologias Utilizadas
+- **Azure AI Search**
+- **Git/GitHub** para controle de versão
+
+## 📊 Como Configurar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/reviews-restaurantes.git
+   ```
+
+2. Instale as dependências necessárias (caso utilize Python):
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Configure o Azure AI Search seguindo a documentação oficial:
+   - [Azure AI Search Documentation](https://learn.microsoft.com/en-us/azure/search/)
+
+4. Execute o script de processamento:
+   ```bash
+   python script/process_reviews.py
+   ```
+
+## 🔍 Insights e Aprendizados
+
+- Aprendi a utilizar o **Azure AI Search** para indexação e busca de textos.
+- Identifiquei a importância de filtrar dados antes da análise.
+- Descobri como estruturar e organizar grandes volumes de feedbacks.
+
+## 🌐 Links Importantes
+- [Azure AI Search - Documentação](https://learn.microsoft.com/en-us/azure/search/)
+- [Repositório no GitHub](https://github.com/seu-usuario/reviews-restaurantes)
+
+---
+**Autor:** Carla Albuquerque
