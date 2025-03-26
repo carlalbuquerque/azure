@@ -1,0 +1,1542 @@
+[
+    {
+        "Id": "c1ad610b8d154d7ebe7756ec8f0b0101",
+        "RecognitionStatus": 0,
+        "Offset": 7200000,
+        "Duration": 126000000,
+        "Channel": 0,
+        "DisplayText": "Saudade é um pouco como fome só passa quando se come a presença, mas às vezes a saudade é tão profunda que a presença é pouco.",
+        "NBest": [
+            {
+                "Confidence": 0.8978258,
+                "Lexical": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "ITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "MaskedITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Display": "Saudade é um pouco como fome só passa quando se come a presença, mas às vezes a saudade é tão profunda que a presença é pouco.",
+                "Words": [
+                    {
+                        "Word": "saudade",
+                        "Offset": 7200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 14800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 16800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 20000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "fome",
+                        "Offset": 23600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 34400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "passa",
+                        "Offset": 37600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 42800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 46400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 48400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 55600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 57600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 70000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 77200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 78400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 82800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "saudade",
+                        "Offset": 84000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 91600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 93200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "profunda",
+                        "Offset": 95600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 106000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 108000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 118400000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 126000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 127600000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8978258,
+                "Lexical": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "ITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "MaskedITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Display": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Words": [
+                    {
+                        "Word": "saudade",
+                        "Offset": 7200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 14800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 16800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 20000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "fome",
+                        "Offset": 23600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 34400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "passa",
+                        "Offset": 37600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 42800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 46400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 48400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 55600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 57600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 70000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 77200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 78400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 82800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "saudade",
+                        "Offset": 84000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 91600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 93200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "profunda",
+                        "Offset": 95600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 106000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 108000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 118400000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 126000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 127600000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8978258,
+                "Lexical": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "ITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "MaskedITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Display": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Words": [
+                    {
+                        "Word": "saudade",
+                        "Offset": 7200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 14800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 16800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 20000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "fome",
+                        "Offset": 23600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 34400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "passa",
+                        "Offset": 37600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 42800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 46400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 48400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 55600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 57600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 70000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 77200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 78400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 82800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "saudade",
+                        "Offset": 84000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 91600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 93200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "profunda",
+                        "Offset": 95600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 106000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 108000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 118400000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 126000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 127600000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8978258,
+                "Lexical": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "ITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "MaskedITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Display": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Words": [
+                    {
+                        "Word": "saudade",
+                        "Offset": 7200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 14800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 16800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 20000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "fome",
+                        "Offset": 23600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 34400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "passa",
+                        "Offset": 37600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 42800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 46400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 48400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 55600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 57600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 70000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 77200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 78400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 82800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "saudade",
+                        "Offset": 84000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 91600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 93200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "profunda",
+                        "Offset": 95600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 106000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 108000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 118400000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 126000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 127600000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8978258,
+                "Lexical": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "ITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "MaskedITN": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Display": "saudade é um pouco como fome só passa quando se come a presença mas às vezes a saudade é tão profunda que a presença é pouco",
+                "Words": [
+                    {
+                        "Word": "saudade",
+                        "Offset": 7200000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 14800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 15600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 16800000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 20000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "fome",
+                        "Offset": 23600000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "só",
+                        "Offset": 34400000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "passa",
+                        "Offset": 37600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 42800000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 46400000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "come",
+                        "Offset": 48400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 55600000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 57600000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "mas",
+                        "Offset": 70000000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "às",
+                        "Offset": 77200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vezes",
+                        "Offset": 78400000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 82800000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "saudade",
+                        "Offset": 84000000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 91600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tão",
+                        "Offset": 93200000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "profunda",
+                        "Offset": 95600000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 106000000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 108000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "presença",
+                        "Offset": 118400000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 126000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "pouco",
+                        "Offset": 127600000,
+                        "Duration": 5600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "97297f2d1eb947fab2a4aba2d690ad2e",
+        "RecognitionStatus": 0,
+        "Offset": 141900000,
+        "Duration": 19600000,
+        "Channel": 0,
+        "DisplayText": "Quer se absorver?",
+        "NBest": [
+            {
+                "Confidence": 0.5976716,
+                "Lexical": "quer se absorver",
+                "ITN": "quer se absorver",
+                "MaskedITN": "quer se absorver",
+                "Display": "Quer se absorver?",
+                "Words": [
+                    {
+                        "Word": "quer",
+                        "Offset": 141900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 144300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "absorver",
+                        "Offset": 145900000,
+                        "Duration": 15600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5976716,
+                "Lexical": "quer se absorver",
+                "ITN": "quer se absorver",
+                "MaskedITN": "quer se absorver",
+                "Display": "quer se absorver",
+                "Words": [
+                    {
+                        "Word": "quer",
+                        "Offset": 141900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 144300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "absorver",
+                        "Offset": 145900000,
+                        "Duration": 15600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.59767175,
+                "Lexical": "quer se absorver",
+                "ITN": "quer se absorver",
+                "MaskedITN": "quer se absorver",
+                "Display": "quer se absorver",
+                "Words": [
+                    {
+                        "Word": "quer",
+                        "Offset": 141900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 144300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "absorver",
+                        "Offset": 145900000,
+                        "Duration": 15600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5976716,
+                "Lexical": "quer se absorver",
+                "ITN": "quer se absorver",
+                "MaskedITN": "quer se absorver",
+                "Display": "quer se absorver",
+                "Words": [
+                    {
+                        "Word": "quer",
+                        "Offset": 141900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 144300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "absorver",
+                        "Offset": 145900000,
+                        "Duration": 15600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5976716,
+                "Lexical": "quer se absorver",
+                "ITN": "quer se absorver",
+                "MaskedITN": "quer se absorver",
+                "Display": "quer se absorver",
+                "Words": [
+                    {
+                        "Word": "quer",
+                        "Offset": 141900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 144300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "absorver",
+                        "Offset": 145900000,
+                        "Duration": 15600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "f2d9647b7a5842b885d09396acaed0b4",
+        "RecognitionStatus": 0,
+        "Offset": 203300000,
+        "Duration": 145600000,
+        "Channel": 0,
+        "DisplayText": "A outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida.",
+        "NBest": [
+            {
+                "Confidence": 0.8387988,
+                "Lexical": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "ITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "MaskedITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Display": "A outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida.",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 203300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "outra",
+                        "Offset": 204500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pessoa",
+                        "Offset": 208900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "toda",
+                        "Offset": 219700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 230100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 233300000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 241700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 247700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 250500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 262900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "outro",
+                        "Offset": 264500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 283300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "unificação",
+                        "Offset": 286900000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "intensa",
+                        "Offset": 296100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 311300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 314900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dos",
+                        "Offset": 316100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 317700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 324100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "urgentes",
+                        "Offset": 327300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 336500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 338500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 340100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 342100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 343700000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8387988,
+                "Lexical": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "ITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "MaskedITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Display": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 203300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "outra",
+                        "Offset": 204500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pessoa",
+                        "Offset": 208900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "toda",
+                        "Offset": 219700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 230100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 233300000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 241700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 247700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 250500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 262900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "outro",
+                        "Offset": 264500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 283300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "unificação",
+                        "Offset": 286900000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "intensa",
+                        "Offset": 296100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 311300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 314900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dos",
+                        "Offset": 316100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 317700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 324100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "urgentes",
+                        "Offset": 327300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 336500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 338500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 340100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 342100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 343700000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8387988,
+                "Lexical": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "ITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "MaskedITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Display": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 203300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "outra",
+                        "Offset": 204500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pessoa",
+                        "Offset": 208900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "toda",
+                        "Offset": 219700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 230100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 233300000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 241700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 247700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 250500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 262900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "outro",
+                        "Offset": 264500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 283300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "unificação",
+                        "Offset": 286900000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "intensa",
+                        "Offset": 296100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 311300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 314900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dos",
+                        "Offset": 316100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 317700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 324100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "urgentes",
+                        "Offset": 327300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 336500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 338500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 340100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 342100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 343700000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8387988,
+                "Lexical": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "ITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "MaskedITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Display": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 203300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "outra",
+                        "Offset": 204500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pessoa",
+                        "Offset": 208900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "toda",
+                        "Offset": 219700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 230100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 233300000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 241700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 247700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 250500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 262900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "outro",
+                        "Offset": 264500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 283300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "unificação",
+                        "Offset": 286900000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "intensa",
+                        "Offset": 296100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 311300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 314900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dos",
+                        "Offset": 316100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 317700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 324100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "urgentes",
+                        "Offset": 327300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 336500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 338500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 340100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 342100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 343700000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8387988,
+                "Lexical": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "ITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "MaskedITN": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Display": "a outra pessoa toda essa vontade de um ser o outro para uma unificação intensa é um dos sentimentos mais urgentes que se tem na vida",
+                "Words": [
+                    {
+                        "Word": "a",
+                        "Offset": 203300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "outra",
+                        "Offset": 204500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "pessoa",
+                        "Offset": 208900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "toda",
+                        "Offset": 219700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 230100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "vontade",
+                        "Offset": 233300000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 241700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 247700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "ser",
+                        "Offset": 250500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 262900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "outro",
+                        "Offset": 264500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276900000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 283300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "unificação",
+                        "Offset": 286900000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "intensa",
+                        "Offset": 296100000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 311300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 314900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "dos",
+                        "Offset": 316100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sentimentos",
+                        "Offset": 317700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 324100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "urgentes",
+                        "Offset": 327300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 336500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 338500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 340100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 342100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vida",
+                        "Offset": 343700000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    }
+]
